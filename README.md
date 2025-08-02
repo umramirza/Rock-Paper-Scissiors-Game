@@ -8,7 +8,7 @@ A classic **Rock Paper Scissors** game built using **HTML, CSS, and JavaScript**
 
 ## 🌐 Live Demo
 
-🔗 [Click here to play online]()  
+🔗 [Click here to play online]( https://umramirza.github.io/Rock-Paper-Scissiors-Game/)  
 
 
 ---
@@ -90,7 +90,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 🙋‍♀️ Author
 
 **Umra Mirza**  
-🎓 BCA Student | 💻 Frontend Developer  
+💻 Frontend Developer  
 🔗 [GitHub](https://github.com/umramirza) • [LinkedIn](https://www.linkedin.com/in/umra-mirza-4525962a2)
 
 ---
